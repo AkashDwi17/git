@@ -1,2 +1,2 @@
 # git
-git using terminal
+Git using terminal.
